@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/neftlix_app_2022/static/css/main.7122173c.css",
+    "main.js": "/neftlix_app_2022/static/js/main.b97302b9.js",
+    "index.html": "/neftlix_app_2022/index.html",
+    "main.7122173c.css.map": "/neftlix_app_2022/static/css/main.7122173c.css.map",
+    "main.b97302b9.js.map": "/neftlix_app_2022/static/js/main.b97302b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7122173c.css",
+    "static/js/main.b97302b9.js"
+  ]
+}
